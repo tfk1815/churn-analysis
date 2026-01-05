@@ -29,7 +29,7 @@ Demographic features such as gender have minimal impact.
 
 Random Forest was chosen for its ability to capture non-linear relationships and feature interactions.
 
-Model performance was evaluated using confusion matrix, precision, recall, F1-score, and ROC-AUC.
+Model performance was evaluated using confusion matrix, precision, recall, F1-score.
 
 The model performed well on customers with clear behavioral churn signals but struggled with sudden or externally driven churn.
 
